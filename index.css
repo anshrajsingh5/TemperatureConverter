@@ -201,6 +201,7 @@ input{
     }
     .container{
         max-width: 280px;
+        margin-left: 28px;
     }
     
     h1{
