@@ -213,7 +213,10 @@ input{
         margin-top: 20px;
         text-align: center;
     }
-    
+    .title{
+        display: flex;
+        flex-direction: column-reverse;
+    }
     
     .button button{
        
